@@ -18,3 +18,5 @@ The Google Glass application will show a map of the building and the user's loca
 The web service will let us send notification cards to the Google Glass user with the aim of warning him about a recent emergency. The user will be able to launch the Google Glass App by tapping in the notification card. It is developed using the Google's Mirror API.
 
 The android application has been developed with the aim making our service more accessible to more users that do not have the Google Glass device.
+
+![alt tag](http://i61.tinypic.com/2dkjqe0.png)
