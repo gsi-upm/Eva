@@ -1,2 +1,3 @@
 # Eva
-Eva project
+An indoor emergency evacuation system on Google Glass
+
