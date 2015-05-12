@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JesúsManuel\Downloads\MyFirstIndoorsAppAndroid\app\libs\indoors-library-surface.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c7ed5a2e32465fed879dcf76da92327dc437104e">
+        <dex dex="C:\Users\JesúsManuel\Downloads\MyFirstIndoorsAppAndroid\app\build\intermediates\pre-dexed\debug\indoors-library-surface-d2ef00938064ae767bf6ec47d7853bfc51906b44.jar" />
+    </item>
+    <item
+        jar="C:\Users\JesúsManuel\Downloads\MyFirstIndoorsAppAndroid\app\libs\android-support-v4-r13.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="C:\Users\JesúsManuel\Downloads\MyFirstIndoorsAppAndroid\app\build\intermediates\pre-dexed\debug\android-support-v4-r13-ae46b8cc339ad4c6f2fab337a0f0ccac8ff7f33f.jar" />
+    </item>
+
+</items>
