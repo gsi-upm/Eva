@@ -10,8 +10,8 @@ To this end, this project aims at exploring the possibilities of GoogleGlass for
 ##Structure
 
 The project is divided in 3 parts:
-- Google Glass Application 
-- Web Service
+- [Google Glass Application] (https://github.com/gsi-upm/Eva/tree/master/GoogleGlassApp) 
+- [Web Service] (https://github.com/gsi-upm/Eva/tree/master/mirror-api-server)
 - Android application
 
 The Google Glass application will show a map of the building and the user's location along with the route that he or she will have to follow to find the exit. It is developed using the Google's Glass Development Kit (GDK).
