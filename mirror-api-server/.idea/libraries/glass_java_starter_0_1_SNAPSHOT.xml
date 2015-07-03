@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="glass-java-starter-0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/glass-java-starter-0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
